@@ -17,6 +17,7 @@ print(my_id)
 
 #6.4
 my_id = your_id = 123
+print(my_id)
 print(your_id)
 
 #6.5
