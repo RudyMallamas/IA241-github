@@ -7,9 +7,13 @@ numbers, variables, and strings
 my_name = 'Tom'
 print(my_name.upper())
 
-#6.3
+#6.2
 my_id = 123
 print(my_id)
+
+#6.3
+#123 = my_id
+#print(my_id)
 
 #6.4
 my_id = your_id = 123
