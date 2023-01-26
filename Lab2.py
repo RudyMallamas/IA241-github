@@ -1,5 +1,6 @@
 '''
 lab 2
+numbers, variables, and strings
 '''
 
 #6.1
