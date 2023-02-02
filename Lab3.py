@@ -20,15 +20,15 @@ print(str_list)
 #3.4
 print(str_list[2])
 
-#3.5 - ask about this - 10 unique items
+#3.5 - 10 unique items
 my_list = ['a', '123', 123, 'b', 'B', 'False', False, 123, None, 'None']
-print(len(my_list))
+print(len( set(my_list)) )
 
 #3.6
 my_sen = 'This is my third python lab.'
 print(len(my_sen.split()))
 
-#3.7 - ask about this
+#3.7
 num_list = [12, 32, 43, 35]
 num_list.sort()
 print(num_list[0])
