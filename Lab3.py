@@ -32,7 +32,7 @@ print(len(my_sen.split()))
 num_list = [12, 32, 43, 35]
 num_list.sort()
 print(num_list[0])
-print(num_list[3])
+print(num_list[-1])
 
 #3.8
 game_board = [
