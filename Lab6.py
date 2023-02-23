@@ -1,7 +1,7 @@
 '''
 Rudy Mallamas
-lab 5 
-For statements
+lab 6 
+For loops, range functions
 '''
 
 #3.1
@@ -23,7 +23,7 @@ for i in range(1, 6):
 
 print(num)
 
-#3.4*
+#3.4
 product = 1
 for i in range(3, 9):
     product *= i
