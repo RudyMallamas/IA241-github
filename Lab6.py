@@ -27,7 +27,7 @@ print(num)
 product = 1
 for i in range(3, 9):
     product *= i
-    
+
 print(product)
 
 #3.5
